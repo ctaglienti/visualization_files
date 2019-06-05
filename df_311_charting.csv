@@ -1,46 +1,6 @@
-,month,complaint_type,count_complaints
-27,1,Blocked Driveway,11388
-23,2,Blocked Driveway,9905
-28,3,Blocked Driveway,11579
-26,4,Blocked Driveway,10359
-15,5,Blocked Driveway,5814
-44,1,HEAT/HOT WATER,47073
-43,2,HEAT/HOT WATER,28813
-42,3,HEAT/HOT WATER,23186
-30,4,HEAT/HOT WATER,12425
-9,5,HEAT/HOT WATER,4843
-32,1,Illegal Parking,13169
-29,2,Illegal Parking,12219
-36,3,Illegal Parking,15247
-35,4,Illegal Parking,15137
-22,5,Illegal Parking,8579
-8,1,Noise,4807
-11,2,Noise,5027
-13,3,Noise,5598
-14,4,Noise,5692
-2,5,Noise,2879
-37,1,Noise - Residential,16170
-34,2,Noise - Residential,14931
-40,3,Noise - Residential,17980
-41,4,Noise - Residential,19094
-25,5,Noise - Residential,10293
-17,1,PLUMBING,6283
-12,2,PLUMBING,5265
-10,3,PLUMBING,4998
-4,4,PLUMBING,4329
-0,5,PLUMBING,1003
-33,1,Request Large Bulky Item Collection,14627
-31,2,Request Large Bulky Item Collection,13124
-38,3,Request Large Bulky Item Collection,16474
-39,4,Request Large Bulky Item Collection,17564
-20,5,Request Large Bulky Item Collection,8428
-19,1,Street Condition,7253
-18,2,Street Condition,6826
-24,3,Street Condition,10273
-21,4,Street Condition,8474
-7,5,Street Condition,4707
-16,1,Water System,6211
-6,2,Water System,4703
-3,3,Water System,3836
-5,4,Water System,4353
-1,5,Water System,2180
+date,Blocked Driveway,HEAT/HOT WATER,Illegal Parking,Noise,Noise - Residential,PLUMBING,Request Large Bulky Item Collection,Street Condition,Water System
+20190101,11388,47073,13169,4807,16170,6283,14627,7253,6211
+20190201,9905,28813,12219,5027,14931,5265,13124,6826,4703
+20190301,11579,23186,15247,5598,17980,4998,16474,10273,3836
+20190401,10359,12425,15137,5692,19094,4329,17564,8474,4353
+20190501,5814,4843,8579,2879,10293,1003,8428,4707,2180
